@@ -2,7 +2,7 @@
 
 This is a simple pong game made with Python that you can play in your terminal.
 
-![demo](assets/demo.mov)
+![demo](assets/demo.gif)
 
 # Installation
 
